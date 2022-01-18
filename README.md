@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SashkoGarmata
 - 👀 I’m interested in Front-End programming. 
 - 🌱 I’m currently learning HTML\CSS\JS\Angular\React
-- 💞️ I’m looking forward to developing as a front-end developer.
+- 😉 Feel free to check my repositories.
 - 📫 You meay reach me via Linkedin Profile. https://www.linkedin.com/in/sashko-garmata-93aaaa186/
 
 <!---
